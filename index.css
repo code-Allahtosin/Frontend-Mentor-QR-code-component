@@ -1,7 +1,4 @@
-/* The designs were created to the following widths:
-- Mobile: 375px
-- Desktop: 1440px
- */
+
 
 body{
     display: flex;
@@ -13,7 +10,7 @@ body{
     font-family: 'Outfit', sans-serif;
     text-align: center;
     background: hsl(212, 45%, 89%);
-    height: 95vh ;
+    height: 80vh ;
     
 
 
@@ -21,13 +18,13 @@ body{
 #container{
     background: white;
     width: 300px;
-    padding: 15px;
-    border-radius: 15px;
+    padding: 25px;
+    border-radius: 25px;
 
 }
 img{
     width: 100%;
-    border-radius: 15px;
+    border-radius: 25px;
 
 }
 h2{
